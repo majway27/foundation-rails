@@ -1,24 +1,13 @@
-# README
+# Details Details Details
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a utility belt for little tools I'd like to have at hand.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Simple Ledger
+* Time Tracker
+* Stress Tracker
+* Random string generator
+* PTO Tracker
+* Quotes
+* Screen "Break" Timer
+* Daily Journal
+* Birthday Tracker
