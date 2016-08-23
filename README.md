@@ -11,3 +11,6 @@ This is a utility belt for little tools I'd like to have at hand.
 * Screen "Break" Timer
 * Daily Journal
 * Birthday Tracker
+
+Heroku Addons: SendGrid 
+
